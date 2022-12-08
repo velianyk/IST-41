@@ -1,5 +1,5 @@
-console.log("How to use.");
-console.log("triangle function calculates parts of the right-angled triangle.")
+console.log("How to use?");
+console.log("Triangle function calculates parts of the right-angled triangle.")
 console.log("Input parameters as follow: parameter 1, type of parameter 1, parameter 2, type of parameter 2.");
 console.log("Available types: leg, hypotenuse, adjacent angle, opposite angle, angle.")
 
